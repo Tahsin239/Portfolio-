@@ -216,3 +216,26 @@ main{
 .downlode-cv{
     margin-top: 50px;
 }
+
+/* footer */
+footer{
+    padding: 130px 230px;
+    display:flex;
+    gap: 100px;
+    
+}
+.footer-container{
+    width: 50%;
+}
+input[type="text"], input[type="email"], textarea{
+    
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    border: none;
+    margin-bottom: 24px;
+    
+}
