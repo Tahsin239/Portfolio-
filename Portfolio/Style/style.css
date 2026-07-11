@@ -180,6 +180,7 @@ main{
 /* resume */
 .resume{
     margin-top: 130px;
+    margin-bottom: 130px;
 }
 .resume-container{
     display: flex;
@@ -227,7 +228,7 @@ footer{
 .footer-container{
     width: 50%;
 }
-input[type="text"], input[type="email"], textarea{
+input[type="text"], input[type="email"],textarea{
     
     height: 64px;
     border-radius: 5px;
@@ -239,3 +240,4 @@ input[type="text"], input[type="email"], textarea{
     margin-bottom: 24px;
     
 }
+
